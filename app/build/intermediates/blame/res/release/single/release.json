@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/ammar/Desktop/ammar-test/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/ammar/Desktop/ammar-test/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ammar/Desktop/ammar-test/app/build/intermediates/res/merged/release/layout_map_demo_activity.xml.flat",
+        "source": "/home/ammar/Desktop/ammar-test/app/src/main/res/layout/map_demo_activity.xml"
+    },
+    {
+        "merged": "/home/ammar/Desktop/ammar-test/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/ammar/Desktop/ammar-test/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ammar/Desktop/ammar-test/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/ammar/Desktop/ammar-test/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ammar/Desktop/ammar-test/app/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/home/ammar/Desktop/ammar-test/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]
